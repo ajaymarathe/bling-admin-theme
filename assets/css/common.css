@@ -29,3 +29,45 @@
 body, h1,h2,h3,h4,h5,h6{
     font-family: 'Poppins', sans-serif;
 }
+
+.four-cards .card-title{
+    font-size: 1.2rem;
+}
+/*comments sales*/
+.comment{
+    border-bottom: 1px solid #e9ecef !important;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: #eee;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #bfbfbf; 
+    position: absolute;
+    border-radius: 6px;
+    transition: background-color .2s linear,height .2s linear,width .2s ease-in-out,border-radius .2s ease-in-out;
+    right: 2px;
+    width: 6px;
+    margin:3rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  width: 14px;
+}
+.comment-sales {
+
+}
+.comment-sales .card-body{
+    height: 470px;
+    overflow: auto;
+}
+.comment-sales .card-body p{
+    margin-bottom: 0;
+}
