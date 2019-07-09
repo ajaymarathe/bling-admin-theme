@@ -2,7 +2,19 @@
 Free bling admin theme is fully responsive for bootstrap lovers, based on bootstrap - under MIT license. do whatever you want to do :)
 
 ### first-shot
-[![bling-admin-theme](https://github.com/ajaymarathe/login-with-header/blob/master/assets/img/login-with-header.png)](http://preview.bootcatch.com/bling-admin-theme/)
+[![bling-admin-theme](https://github.com/ajaymarathe/bling-admin-theme/blob/master/assets/img/first-shot.png)](http://preview.bootcatch.com/bling-admin-theme/)
+
+### second-shot
+[![bling-admin-theme](https://github.com/ajaymarathe/bling-admin-theme/blob/master/assets/img/second-shot.png)](http://preview.bootcatch.com/bling-admin-theme/)
+
+### third-shot
+[![bling-admin-theme](https://github.com/ajaymarathe/bling-admin-theme/blob/master/assets/img/third-shot.png)](http://preview.bootcatch.com/bling-admin-theme/)
+
+### fourth-shot
+[![bling-admin-theme](https://github.com/ajaymarathe/bling-admin-theme/blob/master/assets/img/fourth-shot.png)](http://preview.bootcatch.com/bling-admin-theme/)
+
+### fourth-shot
+[![bling-admin-theme](https://github.com/ajaymarathe/bling-admin-theme/blob/master/assets/img/fifth-shot.png)](http://preview.bootcatch.com/bling-admin-theme/)
 
 ## About
 
