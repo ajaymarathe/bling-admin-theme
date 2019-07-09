@@ -43,7 +43,6 @@ Ajay Marathe
 
 Thanks to Creative Tim - this theme is based on Material Dashboard - v2.1.0.
 + https://www.creative-tim.com/product/material-dashboard
-+ http://www.creative-tim.com
 
 ## Copyright and License
 
