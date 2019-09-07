@@ -20,7 +20,7 @@ Free bling admin theme is fully responsive for bootstrap lovers, based on bootst
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/bling-admin-theme/
+* https://ajaymarathe.github.io/bling-admin-theme/
 * http://bootcatch.com
 
 ## Usage
